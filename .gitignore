@@ -1,0 +1,20 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Build output
+/out/
+/target/
+/build/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.class
+*.jar
+*.war
+*.ear
